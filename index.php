@@ -1,3 +1,10 @@
+<?php
+//acak figure
+$bahan = 'abc';
+$acak = str_shuffle($bahan);
+
+$namaFig = substr($acak, 0,1);
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -67,7 +74,7 @@
 
           <div class="col-md-12 col-12" style="position: relative;" data-aos="fade-up">
             
-            <img src="images/landing_1.png" alt="Image" class="img-fluid img-absolute">
+            <img src="images/figure/<?=$namaFig;?>.png" alt="Image" class="img-fluid img-absolute">
 
             <div class="row mb-4" style='margin-left:-121px;'>
               <div class="col-lg-4 mr-auto">
