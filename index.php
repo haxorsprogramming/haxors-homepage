@@ -78,6 +78,7 @@ $namaFig = substr($acak, 0,1);
 
             <div class="row mb-4">
               <div class="col-lg-4 col-sm-4 mr-auto" style='text-align:center;'>
+              <img src='images/logo_club.png' style='width:200px;'>
                 <h2>Spirit of Collaborative, Never Stop Coding</h2>
                 <p class="mb-5"></p>
                 <div>
