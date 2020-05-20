@@ -67,11 +67,11 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
 
-          <div class="col-md-12" style="position: relative;" data-aos="fade-up">
+          <div class="col-md-12 col-12" style="position: relative;" data-aos="fade-up">
             
             <img src="images/landing_1.png" alt="Image" class="img-fluid img-absolute">
 
-            <div class="row mb-4">
+            <div class="row mb-4" style='margin-left:-121px;'>
               <div class="col-lg-4 mr-auto">
                 <h1>Spirit of Collaborative, Never Stop Coding</h1>
                 <p class="mb-5"></p>
