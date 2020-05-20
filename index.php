@@ -72,13 +72,13 @@ $namaFig = substr($acak, 0,1);
       <div class="container">
         <div class="row align-items-center justify-content-center">
 
-          <div class="col-md-12 col-12" style="position: relative;" data-aos="fade-up">
+          <div class="col-12 col-md-12 " style="position: relative;" data-aos="fade-up">
             
             <img src="images/figure/<?=$namaFig;?>.png" alt="Image" class="img-fluid img-absolute">
 
-            <div class="row mb-4" style='margin-left:-121px;'>
-              <div class="col-lg-4 mr-auto">
-                <h1>Spirit of Collaborative, Never Stop Coding</h1>
+            <div class="row mb-4">
+              <div class="col-lg-4 col-sm-4 mr-auto" style='text-align:center;'>
+                <h2>Spirit of Collaborative, Never Stop Coding</h2>
                 <p class="mb-5"></p>
                 <div>
                   <a href="#features-section" class="btn btn-primary mr-2 mb-2">About Haxors</a>
@@ -297,54 +297,15 @@ $namaFig = substr($acak, 0,1);
         </div>
       </div>
       <div class="slide-one-item home-slider owl-carousel">
-          <div>
+
+          <div v-for='k in kegiatan'>
             <div class="testimonial">
-            <img src='images/kegiatan/dilo_hackaton_2018.jpg'>
+            <img :src='k.pic'>
               <blockquote class="mb-3">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;{{k.teks}}&rdquo;</p>
               </blockquote>
-              <p class="text-black"><strong>John Smith</strong></p>
-
-
+              <p class="text-black"><strong>{{k.judul}}</strong></p>
             </div>
-          </div>
-          <div>
-            <div class="testimonial">
-            <img src='images/kegiatan/dilo_hackaton_2018.jpg'>
-              <blockquote class="mb-3">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-              </blockquote>
-              
-              <p class="text-black"><strong>Robert Aguilar</strong></p>
-              
-              
-            </div>
-          </div>
-
-          <div>
-            <div class="testimonial">
-            <img src='images/kegiatan/dilo_hackaton_2018.jpg'>
-              <blockquote class="mb-3">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-              </blockquote>
-              <p class="text-black"><strong>Roger Spears</strong></p>
-
-              
-            </div>
-           
-          </div>
-
-          <div>
-            <div class="testimonial">
-            <img src='images/kegiatan/dilo_hackaton_2018.jpg'>
-              <blockquote class="mb-3">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-              </blockquote>
-              <p class="text-black"><strong>Kyle McDonald</strong></p>
-
-              
-            </div>
-
           </div>
 
         </div>
