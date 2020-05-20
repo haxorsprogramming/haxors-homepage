@@ -66,8 +66,7 @@
             </nav>
           </div>
           <div class="col-6 col-md-6 d-inline-block d-lg-none ml-md-0" ><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right">
-            <span class="icon-menu h3"></span></a></div>
-
+            <span class="fas fa-bars"></span></a></div>
         </div>
       </div>
       
@@ -116,8 +115,8 @@
               </div>
               <div>
                 <h3>Web Development</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+                <p>Divisi pengembangan aplikasi berbasis web, serta pengembangan API yang dapat digunakan untuk aplikasi lain</p>
+                <p><a href="#">More</a></p>
               </div>
             </div>
 
@@ -130,8 +129,8 @@
               </div>
               <div>
                 <h3>Mobile Development</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+                <p>Divisi pengembangan aplikasi berbasis mobile (android, Ios)</p>
+                <p><a href="#">More</a></p>
               </div>
             </div>
           </div>
@@ -142,8 +141,8 @@
               </div>
               <div>
                 <h3>Game Development</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+                <p>Divisi pengembangan game 2D dan 3D menggunakan Construct, Unity, & Unreal Engine</p>
+                <p><a href="#">More</a></p>
               </div>
             </div>
           </div>
@@ -156,8 +155,8 @@
               </div>
               <div>
                 <h3>UI/UX Designer</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+                <p>Divisi pengembangan UI/UX (Interface) aplikasi/sistem.</p>
+                <p><a href="#">More</a></p>
               </div>
             </div>
           </div>
@@ -169,7 +168,7 @@
               </div>
               <div>
                 <h3>Data Science</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Divisi pengembangan data science menggunakan Python & R, serta pengembangan algoritma mandiri untuk mendapatkan hasil terbaik dari analisis data</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -184,7 +183,7 @@
               </div>
               <div>
                 <h3>IoT (Internet of Thing)</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Divisi pengembangan IoT untuk inovasi sistem yang mempunyai nilai guna dan dapat digunakan untuk sehari hari.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -201,7 +200,7 @@
           </div>
         <div class="row mb-5 site-section border-bottom">
           <div class="col-lg-7">
-            <img src="images/do_ui_kit_download_cta_floating_devices-2x.png" alt="Image" class="img-fluid">
+            <img src="images/nadha_laundry.png" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-5 pl-lg-5 ml-auto mt-md-5">
             <h2 class="text-black">NadhaLaundry</h2>
@@ -212,48 +211,69 @@
               <li>Notifikasi realtime ke pelanggan</li>
               <li>Pembukuan laundry</li>
             </ul>
+            <a href="http://project.haxors.or.id/nadha-laundry" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
+            <br/><br/>
             <div class="author-box">
               <div class="d-flex mb-4">
                 <div class="mr-3">
                   <img src="images/person_1.jpg" alt="Image" class="img-fluid rounded-circle">
                 </div>
                 <div class="mr-auto text-black">
-                  <strong class="font-weight-bold mb-0">Amalia G.</strong> <br>
-                  Co-Founder, XYZ Inc.
+                  <strong class="font-weight-bold mb-0">Hery Syahputra.</strong> <br>
+                  Owner, Nova Laundry
                 </div>
               </div>
-              <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus vitae ipsa asperiores inventore aperiam iure?&rdquo;</blockquote>
+              <blockquote>&ldquo;Aplikasi yg interaktif, pembukuan & report yang rapi, serta adanya sistem promo yang memudahkan mendapatkan pelanggan baru&rdquo;</blockquote>
             </div>
           </div>
         </div>
 
         <div class="mt-5 row mb-5 site-section ">
           <div class="col-lg-7 order-1 order-lg-2">
-            <img src="images/do_ui_kit_hero_floating_devices-2x.png" alt="Image" class="img-fluid">
+            <img src="images/uinsu_web.png" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-5 pr-lg-5 mr-auto mt-5 order-2 order-lg-1">
-            <h2 class="text-black">Create interactive prototypes</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam</p>
-            <ul class="ul-check mb-5 list-unstyled success">
-              <li>Laborum enim quasi at modi</li>
-              <li>Ad at tempore</li>
+            <h2 class="text-black">Uinsu Development Website</h2>
+            <p class="mb-4">Pengembangan website Universitas Islam Negeri Sumatera Utara</p>
+            <ul class="">
+              <li>Helpdeks online</li>
+              <li>Virtual tour uinsu</li>
             </ul>
-            
-
+            <a href="http://project.haxors.or.id/nadha-laundry" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
+          </div>
+        </div>
+<hr/>
+        <div class="row mb-5 site-section border-bottom">
+          <div class="col-lg-7">
+            <img src="images/nadha_laundry.png" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 pl-lg-5 ml-auto mt-md-5">
+            <h2 class="text-black">NadhaSchool</h2>
+            <p class="mb-4">Aplikasi pengelolaan laundry. Dengan fitur : </p>
+            <ul class="">
+              <li>Manajemen cucian</li>
+              <li>Manajemen pelanggan, promo, pengeluaran laundry</li>
+              <li>Notifikasi realtime ke pelanggan</li>
+              <li>Pembukuan laundry</li>
+            </ul>
+            <a href="http://project.haxors.or.id/nadha-laundry" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
+            <br/><br/>
             <div class="author-box">
               <div class="d-flex mb-4">
                 <div class="mr-3">
-                  <img src="images/person_4.jpg" alt="Image" class="img-fluid rounded-circle">
+                  <img src="images/person_1.jpg" alt="Image" class="img-fluid rounded-circle">
                 </div>
                 <div class="mr-auto text-black">
-                  <strong class="font-weight-bold mb-0">Darren K.</strong> <br>
-                  Co-Founder, XYZ Inc.
+                  <strong class="font-weight-bold mb-0">Hery Syahputra.</strong> <br>
+                  Owner, Nova Laundry
                 </div>
               </div>
-              <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus vitae ipsa asperiores inventore aperiam iure?&rdquo;</blockquote>
+              <blockquote>&ldquo;Aplikasi yg interaktif, pembukaun & report yang rapi, serta adanya sistem promo yang memudahkan mendapatkan pelanggan baru&rdquo;</blockquote>
             </div>
           </div>
         </div>
+
+
       </div>
     </div>
 
@@ -284,16 +304,14 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
-            <h2 class="section-title mb-3">Testimonials</h2>
+            <h2 class="section-title mb-3">Activity</h2>
           </div>
         </div>
       </div>
       <div class="slide-one-item home-slider owl-carousel">
           <div>
             <div class="testimonial">
-              <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_3.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
-              </figure>
+            <img src='images/kegiatan/dilo_hackaton_2018.jpg'>
               <blockquote class="mb-3">
                 <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
               </blockquote>
@@ -304,11 +322,7 @@
           </div>
           <div>
             <div class="testimonial">
-              
-              <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_2.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
-              </figure>
-
+            <img src='images/kegiatan/dilo_hackaton_2018.jpg'>
               <blockquote class="mb-3">
                 <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
               </blockquote>
@@ -321,9 +335,7 @@
 
           <div>
             <div class="testimonial">
-              <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_4.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
-              </figure>
+            <img src='images/kegiatan/dilo_hackaton_2018.jpg'>
               <blockquote class="mb-3">
                 <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
               </blockquote>
@@ -336,9 +348,7 @@
 
           <div>
             <div class="testimonial">
-              <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_1.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
-              </figure>
+            <img src='images/kegiatan/dilo_hackaton_2018.jpg'>
               <blockquote class="mb-3">
                 <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
               </blockquote>
