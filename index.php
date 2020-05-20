@@ -61,8 +61,6 @@
       </div>
       
     </header>
-    
-
     <div class="site-blocks-cover">
       <div class="container">
         <div class="row align-items-center justify-content-center">
@@ -76,18 +74,16 @@
                 <h1>Spirit of Collaborative, Never Stop Coding</h1>
                 <p class="mb-5"></p>
                 <div>
-                  <a href="#features-section" class="btn btn-primary mr-2 mb-2">Get Started</a>
+                  <a href="#features-section" class="btn btn-primary mr-2 mb-2">About Haxors</a>
                 </div>
               </div>
-              
-              
+          
             </div>
 
           </div>
         </div>
       </div>
     </div>  
-
 
     <div class="site-section bg-light" id="features-section">
       <div class="container">
