@@ -1,6 +1,6 @@
 <?php
 //acak figure
-$bahan = 'abc';
+$bahan = 'abcde';
 $acak = str_shuffle($bahan);
 
 $namaFig = substr($acak, 0,1);
