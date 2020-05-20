@@ -12,17 +12,12 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
-
     <link rel="stylesheet" href="css/jquery.fancybox.min.css">
-
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-
     <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
-
     <link rel="stylesheet" href="css/aos.css">
-
     <link rel="stylesheet" href="css/style.css">
-    
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
   
@@ -40,7 +35,7 @@
     <div class="container d-none d-lg-block">
       <div class="row">
         <div class="col-12 text-center mb-4 mt-5">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">Haxorsprogramming Club</a></h1>
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">{{titleClub}}</a></h1>
           </div>
       </div>
     </div>
@@ -50,18 +45,13 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-md-6 col-xl-2  d-block d-lg-none">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">Haxorsprogramming Club</a></h1>
+            <h1 class="mb-0 site-logo"><a href="#!" class="text-black h2 mb-0">Haxorsprogramming Club</a></h1>
           </div>
 
           <div class="col-12 col-md-12 main-menu" style="text-align:center;">
             <nav class="site-navigation" role="navigation">
               <ul class="site-menu main-menu js-clone-nav d-none d-lg-block">
-                <li><a href="#home-section" class="nav-link">Home</a></li>
-                <li><a href="#features-section" class="nav-link">Divisi</a></li>
-                <li><a href="#project-section" class="nav-link">Project</a></li>
-                <li><a href="#about-section" class="nav-link">About Us</a></li>
-                <li><a href="http://update.haxors.or.id" class="nav-link" target='new'>Blog</a></li>
-                <li><a href="#contact-section" class="nav-link">Contact</a></li>
+                <li v-for='mh in menuHeader'><a :href="mh.link" class="nav-link">{{mh.teks}}</a></li>
               </ul>
             </nav>
           </div>
@@ -272,11 +262,8 @@
             </div>
           </div>
         </div>
-
-
       </div>
     </div>
-
 
     <div class="site-section bg-light" id="about-section">
       <div class="container">
@@ -295,10 +282,8 @@
             <p><a href="#" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
-        
       </div>
     </div>
-
 
     <div class="site-section testimonial-wrap" id="testimonials-section">
       <div class="container">
@@ -317,7 +302,7 @@
               </blockquote>
               <p class="text-black"><strong>John Smith</strong></p>
 
-              
+
             </div>
           </div>
           <div>
@@ -510,8 +495,7 @@
   <script src="js/jquery.fancybox.min.js"></script>
   <script src="js/jquery.sticky.js"></script>
 
-  
   <script src="js/main.js"></script>
-    
+  <script src="js/haxors.js"></script>
   </body>
 </html>
