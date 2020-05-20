@@ -4,11 +4,9 @@
     <title>Haxors Programming Club - Home</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://demo.getstisla.com/assets/modules/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
-
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/jquery-ui.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -52,25 +50,23 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-md-6 col-xl-2  d-block d-lg-none">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">Landerz<span class="text-primary">.</span> </a></h1>
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">Haxorsprogramming Club</a></h1>
           </div>
 
-          <div class="col-12 col-md-10 main-menu">
-            <nav class="site-navigation position-relative text-right" role="navigation">
-
-              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+          <div class="col-12 col-md-12 main-menu" style="text-align:center;">
+            <nav class="site-navigation" role="navigation">
+              <ul class="site-menu main-menu js-clone-nav d-none d-lg-block">
                 <li><a href="#home-section" class="nav-link">Home</a></li>
-                <li><a href="#features-section" class="nav-link">Division</a></li>
+                <li><a href="#features-section" class="nav-link">Divisi</a></li>
+                <li><a href="#project-section" class="nav-link">Project</a></li>
                 <li><a href="#about-section" class="nav-link">About Us</a></li>
-                <li><a href="#testimonials-section" class="nav-link">Testimonials</a></li>
-                <li><a href="#blog-section" class="nav-link">Blog</a></li>
+                <li><a href="http://update.haxors.or.id" class="nav-link" target='new'>Blog</a></li>
                 <li><a href="#contact-section" class="nav-link">Contact</a></li>
               </ul>
             </nav>
           </div>
-
-
-          <div class="col-6 col-md-6 d-inline-block d-lg-none ml-md-0" ><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a></div>
+          <div class="col-6 col-md-6 d-inline-block d-lg-none ml-md-0" ><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right">
+            <span class="icon-menu h3"></span></a></div>
 
         </div>
       </div>
@@ -88,10 +84,10 @@
 
             <div class="row mb-4">
               <div class="col-lg-4 mr-auto">
-                <h1>Grow Your Business Faster</h1>
-                <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam assumenda ea quo cupiditate facere deleniti fuga officia.</p>
+                <h1>Spirit of Collaborative, Never Stop Coding</h1>
+                <p class="mb-5"></p>
                 <div>
-                  <a href="#" class="btn btn-primary mr-2 mb-2">Get Started</a>
+                  <a href="#features-section" class="btn btn-primary mr-2 mb-2">Get Started</a>
                 </div>
               </div>
               
@@ -108,7 +104,7 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
-            <h2 class="section-title mb-3">Features</h2>
+            <h2 class="section-title mb-3">Divisi</h2>
           </div>
         </div>
         <div class="row align-items-stretch">
@@ -116,10 +112,10 @@
             
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-autorenew"></span></span>
+                <span class="icon-wrap"><span class="fas fa-code"></span></span>
               </div>
               <div>
-                <h3>Business Consulting</h3>
+                <h3>Web Development</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -130,10 +126,10 @@
 
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-store_mall_directory"></span></span>
+                <span class="icon-wrap"><span class="fas fa-mobile-alt"></span></span>
               </div>
               <div>
-                <h3>Market Analysis</h3>
+                <h3>Mobile Development</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -142,10 +138,10 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" >
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-shopping_basket"></span></span>
+                <span class="icon-wrap"><span class="fas fa-gamepad"></span></span>
               </div>
               <div>
-                <h3>User Monitoring</h3>
+                <h3>Game Development</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -156,10 +152,10 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"></span></span>
+                <span class="icon-wrap"><span class="fas fa-draw-polygon"></span></span>
               </div>
               <div>
-                <h3>Insurance Consulting</h3>
+                <h3>UI/UX Designer</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -169,10 +165,10 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"></span></span>
+                <span class="icon-wrap"><span class="fas fa-chart-bar"></span></span>
               </div>
               <div>
-                <h3>Customer Satistified</h3>
+                <h3>Data Science</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -184,10 +180,10 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-power"></span></span>
+                <span class="icon-wrap"><span class="fas fa-microchip"></span></span>
               </div>
               <div>
-                <h3>Plug &amp; Play</h3>
+                <h3>IoT (Internet of Thing)</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -198,18 +194,23 @@
       </div>
     </div>
     
-    <div class="feature-big">
+    <div class="project-big" id='project-section'>
       <div class="container">
+      <div class="col-12 text-center" style="padding-top:12px;">
+            <h2 class="section-title mb-3">Project</h2>
+          </div>
         <div class="row mb-5 site-section border-bottom">
           <div class="col-lg-7">
             <img src="images/do_ui_kit_download_cta_floating_devices-2x.png" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-5 pl-lg-5 ml-auto mt-md-5">
-            <h2 class="text-black">Create interactive prototypes</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.</p>
-            <ul class="ul-check mb-5 list-unstyled success">
-              <li>Adipisci excepturi aliquam</li>
-              <li>Deleniti labore reiciendis</li>
+            <h2 class="text-black">NadhaLaundry</h2>
+            <p class="mb-4">Aplikasi pengelolaan laundry. Dengan fitur : </p>
+            <ul class="">
+              <li>Manajemen cucian</li>
+              <li>Manajemen pelanggan, promo, pengeluaran laundry</li>
+              <li>Notifikasi realtime ke pelanggan</li>
+              <li>Pembukuan laundry</li>
             </ul>
             <div class="author-box">
               <div class="d-flex mb-4">
@@ -472,7 +473,7 @@
           <div class="col-md-12">
             <p class="mb-0">
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+              Copyright &copy;<script>document.write(new Date().getFullYear());</script> Haxorsprogrammingclub, All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
