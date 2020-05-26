@@ -239,32 +239,21 @@ $namaFig = substr($acak, 0,1);
 <hr/>
         <div class="row mb-5 site-section border-bottom">
           <div class="col-lg-7">
-            <img src="images/nadha_laundry.png" alt="Image" class="img-fluid">
+            <img src="images/front_nadha_school.png" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-5 pl-lg-5 ml-auto mt-md-5">
             <h2 class="text-black">NadhaSchool</h2>
-            <p class="mb-4">Aplikasi pengelolaan laundry. Dengan fitur : </p>
+            <p class="mb-4">Aplikasi Manajemen Sekolah, dengan fitur : </p>
             <ul class="">
-              <li>Manajemen cucian</li>
-              <li>Manajemen pelanggan, promo, pengeluaran laundry</li>
-              <li>Notifikasi realtime ke pelanggan</li>
-              <li>Pembukuan laundry</li>
+              <li>Manajemen data siswa, guru, & pegawai</li>
+              <li>Manajemen absensi siswa, guru & pegawai</li>
+              <li>Notifikasi informasi siswa ke orangtua</li>
+              <li>Sistem ujian online</li>
+              <li>Laporan hasil belajar (Rapor) online</li>
             </ul>
-            <a href="http://project.haxors.or.id/nadha-laundry" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
+            <a href="#!" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
             <br/><br/>
-            <div class="author-box">
-              <div class="d-flex mb-4">
-                <div class="mr-3">
-                  <img src="images/person_1.jpg" alt="Image" class="img-fluid rounded-circle">
-                </div>
-                <div class="mr-auto text-black">
-                  <strong class="font-weight-bold mb-0">Hery Syahputra.</strong> <br>
-                  Owner, Nova Laundry
-                </div>
-              </div>
-              <blockquote>&ldquo;Aplikasi yg interaktif, pembukaun & report yang rapi, serta adanya sistem promo yang memudahkan mendapatkan pelanggan baru&rdquo;</blockquote>
-            </div>
-          </div>
+            
         </div>
       </div>
     </div>
@@ -281,9 +270,11 @@ $namaFig = substr($acak, 0,1);
             <img src="images/about_1.jpg" alt="Image" class="img-fluid mb-5 mb-lg-0 rounded shadow">
           </div>
           <div class="col-lg-5 ml-auto pl-lg-5">
-            <h2 class="text-black mb-4">Create interactive prototypes</h2>
-            <p class="mb-4">Eos cumque optio dolores excepturi rerum temporibus magni recusandae eveniet, totam omnis consectetur maxime quibusdam expedita dolorem dolor nobis dicta labore quaerat esse magnam unde, aperiam delectus! At maiores, itaque.</p>
-            <p><a href="#" class="btn btn-primary">Learn More</a></p>
+            <h2 class="text-black mb-4">Just write code .. :)</h2>
+            <p class="mb-4">
+              Tak mampu mendisrupsi kampus, namun tetap bertekad menjadi kompetitor mereka mereka yang telah menjadikan kami motivasi ... 
+            </p>
+            <p><a href="file/laporan_kegiatan.pdf" target="new" class="btn btn-primary">Haxors in timeline</a></p>
           </div>
         </div>
       </div>
@@ -326,7 +317,7 @@ $namaFig = substr($acak, 0,1);
               <img src="images/img_1.jpg" alt="Image" class="img-fluid">
               <h2><a href="#">Cara membuat RestAPI dengan Python</a></h2>
               <div class="meta mb-4">Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <p>Deks ..</p>
               <p><a href="#">Continue Reading...</a></p>
             </div> 
           </div>
@@ -335,7 +326,7 @@ $namaFig = substr($acak, 0,1);
               <img src="images/img_2.jpg" alt="Image" class="img-fluid">
               <h2><a href="#">Tips mengoptimalkan network balance pada socket.io</a></h2>
               <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <p>Deks ..</p>
               <p><a href="#">Continue Reading...</a></p>
             </div>
           </div>
@@ -344,7 +335,7 @@ $namaFig = substr($acak, 0,1);
               <img src="images/img_3.jpg" alt="Image" class="img-fluid">
               <h2><a href="#">Create interactive prototypes</a></h2>
               <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <p>Deks ..</p>
               <p><a href="#">Continue Reading...</a></p>
             </div> 
           </div>
