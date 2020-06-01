@@ -205,7 +205,7 @@ $namaFig = substr($acak, 0,1);
               <li>Notifikasi realtime ke pelanggan</li>
               <li>Pembukuan laundry</li>
             </ul>
-            <a href="http://project.haxors.or.id/nadha-laundry" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
+            <a href="https://github.com/haxorsprogramming/Nadha-Laundry" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
             <br/><br/>
             <div class="author-box">
               <div class="d-flex mb-4">
@@ -233,7 +233,7 @@ $namaFig = substr($acak, 0,1);
               <li>Helpdeks online</li>
               <li>Virtual tour uinsu</li>
             </ul>
-            <a href="http://project.haxors.or.id/nadha-laundry" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
+            <a href="http://103.76.20.169:3562/" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
           </div>
         </div>
 <hr/>
@@ -251,13 +251,15 @@ $namaFig = substr($acak, 0,1);
               <li>Sistem ujian online</li>
               <li>Laporan hasil belajar (Rapor) online</li>
             </ul>
-            <a href="#!" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
+            <a href="https://github.com/haxorsprogramming/Nadha-School" target='new' class="btn btn-primary mr-2 mb-2">Details</a>
             <br/><br/>
             
         </div>
       </div>
     </div>
-
+<div style='text-align:center;'>
+  <a href='https://trello.com/b/pYbgelnu/haxors-project-board' target="new" class="btn btn-primary">All project of Haxorsprogramming</a>
+</div>
     <div class="site-section bg-light" id="about-section">
       <div class="container">
         <div class="row mb-5">
@@ -333,7 +335,7 @@ $namaFig = substr($acak, 0,1);
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="h-entry">
               <img src="images/img_3.jpg" alt="Image" class="img-fluid">
-              <h2><a href="#">Create interactive prototypes</a></h2>
+              <h2><a href="#">Berkenalan dengan Meteor.Js</a></h2>
               <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
               <p>Deks ..</p>
               <p><a href="#">Continue Reading...</a></p>
@@ -348,64 +350,9 @@ $namaFig = substr($acak, 0,1);
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
-            <h2 class="section-title mb-3">Get In Touch</h2>
+            <h2 class="section-title mb-3">"Spirit of collaborative, never stop coding"</h2>
           </div>
         </div>
-        <div class="row justify-content-center">
-          <div class="col-lg-7 mb-5">
-
-            
-
-            <form action="#" class="p-5 bg-white">
-              
-              <h2 class="h4 text-black mb-5">Contact Form</h2> 
-
-              <div class="row form-group">
-                <div class="col-md-6 mb-3 mb-md-0">
-                  <label class="text-black" for="fname">First Name</label>
-                  <input type="text" id="fname" class="form-control rounded-0">
-                </div>
-                <div class="col-md-6">
-                  <label class="text-black" for="lname">Last Name</label>
-                  <input type="text" id="lname" class="form-control rounded-0">
-                </div>
-              </div>
-
-              <div class="row form-group">
-                
-                <div class="col-md-12">
-                  <label class="text-black" for="email">Email</label> 
-                  <input type="email" id="email" class="form-control rounded-0">
-                </div>
-              </div>
-
-              <div class="row form-group">
-                
-                <div class="col-md-12">
-                  <label class="text-black" for="subject">Subject</label> 
-                  <input type="subject" id="subject" class="form-control rounded-0">
-                </div>
-              </div>
-
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <label class="text-black" for="message">Message</label> 
-                  <textarea name="message" id="message" cols="30" rows="7" class="form-control rounded-0" placeholder="Write your notes or questions here..."></textarea>
-                </div>
-              </div>
-
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <input type="submit" value="Send Message" class="btn btn-primary mr-2 mb-2">
-                </div>
-              </div>
-
-  
-            </form>
-          </div>
-        
-        </div>
-        
       </div>
     </div>
 
