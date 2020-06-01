@@ -42,7 +42,7 @@ $namaFig = substr($acak, 0,1);
     <div class="container d-none d-lg-block">
       <div class="row">
         <div class="col-12 text-center mb-4 mt-5">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">{{titleClub}}</a></h1>
+            <h1 class="mb-0 site-logo"><a href="#!" class="text-black h2 mb-0">{{titleClub}}</a></h1>
           </div>
       </div>
     </div>
@@ -257,7 +257,7 @@ $namaFig = substr($acak, 0,1);
         </div>
       </div>
     </div>
-<div style='text-align:center;'>
+<div style='text-align:center;margin-bottom:15px;'>
   <a href='https://trello.com/b/pYbgelnu/haxors-project-board' target="new" class="btn btn-primary">All project of Haxorsprogramming</a>
 </div>
     <div class="site-section bg-light" id="about-section">
