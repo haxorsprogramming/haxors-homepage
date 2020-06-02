@@ -37,22 +37,22 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     <div class="w3-quarter">
       <img src="../images/squad/fauzan.JPG" alt="Sandwich" style="width:100%">
       <h3>Ahmad Fauzan Nst</h3>
-      <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      <p>Leader of Haxorsprogramming.</p>
     </div>
     <div class="w3-quarter">
         <img src="../images/squad/fauzan.JPG" alt="Sandwich" style="width:100%">
-      <h3>Let Me Tell You About This Steak</h3>
+      <h3>Ahmad Mubarak</h3>
       <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
     <div class="w3-quarter">
         <img src="../images/squad/fauzan.JPG" alt="Sandwich" style="width:100%">
-      <h3>Cherries, interrupted</h3>
-      <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      <h3>Aisyah</h3>
+      <p>Secretary.</p>
       <p>What else?</p>
     </div>
     <div class="w3-quarter">
         <img src="../images/squad/fauzan.JPG" alt="Sandwich" style="width:100%">
-      <h3>Once Again, Robust Wine and Vegetable Pasta</h3>
+      <h3>Host</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
   </div>
