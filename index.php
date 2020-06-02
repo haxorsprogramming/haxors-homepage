@@ -277,6 +277,7 @@ $namaFig = substr($acak, 0,1);
               Tak mampu mendisrupsi kampus, namun tetap bertekad menjadi kompetitor mereka mereka yang telah menjadikan kami motivasi ... 
             </p>
             <p><a href="file/laporan_kegiatan.pdf" target="new" class="btn btn-primary">Haxors in timeline</a></p>
+            <p><a href="squad" target="new" class="btn btn-primary">Haxors Squad</a></p>
           </div>
         </div>
       </div>
