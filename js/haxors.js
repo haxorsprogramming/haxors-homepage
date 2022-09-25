@@ -6,8 +6,9 @@ var home = new Vue({
             { teks: 'Home', link: '#home-section' },
             { teks: 'Project', link: '#project-section' },
             { teks: 'About Us', link: '#about-section' },
-            { teks: 'Blog', link: 'http://update.haxors.or.id' },
-            { teks: 'Contact', link: '#contact-section' }
+            { teks: 'Blog', link: 'http://update.haxorsprogramming.or.id' },
+            { teks: 'Contact', link: '#contact-section' },
+            { teks: 'Forum', link : 'http://forum.haxorsprogramming.or.id' }
         ],
         kegiatan: [
             { teks: 'Tim Haxorsprogramming mengirimkan delegasi untuk mengikuti kompetisi hackathon yang diselenggarakan oleh telkom',
@@ -22,7 +23,6 @@ var home = new Vue({
              judul: 'Dilo Hackathon 2018', pic: 'images/kegiatan/dilo_hackaton_2018.jpg' },
             { teks: 'Tim Haxorsprogramming mengirimkan delegasi untuk mengikuti kompetisi hackathon yang diselenggarakan oleh telkom',
              judul: 'Dilo Hackathon 2018', pic: 'images/kegiatan/dilo_hackaton_2018.jpg' }
-
         ]
     }
 });
